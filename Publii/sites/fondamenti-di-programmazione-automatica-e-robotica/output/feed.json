@@ -1,0 +1,58 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Fondamenti di Programmazione Automatica e Robotica",
+    "description": "",
+    "home_page_url": "https://espositomatteo.github.io",
+    "feed_url": "https://espositomatteo.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Matteo Esposito"
+    },
+    "items": [
+        {
+            "id": "https://espositomatteo.github.io/mailing-list/",
+            "url": "https://espositomatteo.github.io/mailing-list/",
+            "title": "Mailing List",
+            "summary": "Iscriviti alla Mailing List del corso* indicates requiredEmail Address * First Name Last Name // ",
+            "content_html": "<!-- Begin Mailchimp Signup Form -->\n<div id=\"mc_embed_signup\"><form id=\"mc-embedded-subscribe-form\" class=\"validate\" action=\"https://github.us19.list-manage.com/subscribe/post?u=3c102b2ba4879b5ace8e4d542&amp;id=3c3c15b2a8\" method=\"post\" name=\"mc-embedded-subscribe-form\" novalidate=\"\" target=\"_blank\">\n<div id=\"mc_embed_signup_scroll\">\n<h2>Iscriviti alla Mailing List del corso</h2>\n<div class=\"indicates-required\"><span class=\"asterisk\">*</span> indicates required</div>\n<div class=\"mc-field-group\"><label for=\"mce-EMAIL\">Email Address <span class=\"asterisk\">*</span> </label> <input id=\"mce-EMAIL\" class=\"required email\" name=\"EMAIL\" type=\"email\" value=\"\"></div>\n<div class=\"mc-field-group\"><label for=\"mce-FNAME\">First Name </label> <input id=\"mce-FNAME\" class=\"\" name=\"FNAME\" type=\"text\" value=\"\"></div>\n<div class=\"mc-field-group\"><label for=\"mce-LNAME\">Last Name </label> <input id=\"mce-LNAME\" class=\"\" name=\"LNAME\" type=\"text\" value=\"\"></div>\n<div id=\"mce-responses\" class=\"clear\"> </div>\n<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->\n<div style=\"position: absolute; left: -5000px;\"><input tabindex=\"-1\" name=\"b_3c102b2ba4879b5ace8e4d542_3c3c15b2a8\" type=\"text\" value=\"\"></div>\n<div class=\"clear\"><input id=\"mc-embedded-subscribe\" class=\"button\" name=\"subscribe\" type=\"submit\" value=\"Subscribe\"></div>\n</div>\n</form></div>\n<script type=\"text/javascript\" src=\"//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js\"></script>\n<script type=\"text/javascript\">// <![CDATA[\n(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[4]='PHONE';ftypes[4]='phone'; /*\n * Translated default messages for the $ validation plugin.\n * Locale: IT\n */\n$.extend($.validator.messages, {\n       required: \"Campo obbligatorio.\",\n       remote: \"Controlla questo campo.\",\n       email: \"Inserisci un indirizzo email valido.\",\n       url: \"Inserisci un indirizzo web valido.\",\n       date: \"Inserisci una data valida.\",\n       dateISO: \"Inserisci una data valida (ISO).\",\n       number: \"Inserisci un numero valido.\",\n       digits: \"Inserisci solo numeri.\",\n       creditcard: \"Inserisci un numero di carta di credito valido.\",\n       equalTo: \"Il valore non corrisponde.\",\n       accept: \"Inserisci un valore con un&apos;estensione valida.\",\n       maxlength: $.validator.format(\"Non inserire pi&ugrave; di {0} caratteri.\"),\n       minlength: $.validator.format(\"Inserisci almeno {0} caratteri.\"),\n       rangelength: $.validator.format(\"Inserisci un valore compreso tra {0} e {1} caratteri.\"),\n       range: $.validator.format(\"Inserisci un valore compreso tra {0} e {1}.\"),\n       max: $.validator.format(\"Inserisci un valore minore o uguale a {0}.\"),\n       min: $.validator.format(\"Inserisci un valore maggiore o uguale a {0}.\")\n});}(jQuery));var $mcj = jQuery.noConflict(true);\n// ]]></script>\n<!--End mc_embed_signup-->",
+            "image": "https://espositomatteo.github.io/media/posts/6/",
+            "author": {
+                "name": "Matteo Esposito"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-10-20T11:09:14+02:00",
+            "date_modified": "2018-10-20T11:09:14+02:00"
+        },
+        {
+            "id": "https://espositomatteo.github.io/comunicazione-lezione-del-26-10-2018/",
+            "url": "https://espositomatteo.github.io/comunicazione-lezione-del-26-10-2018/",
+            "title": "Comunicazione Lezione del 26-10-2018",
+            "summary": "Carissimi studenti, ricordo a tutti che la lezione di venerdì prossimo si terrà regolarmente dalle 15:30 alle ore 17:00 di nuovo in aula LIM, salvo diversa indicazione. Vi invito a portare un quaderno, un tablet o un computer portatile per prendere appunti. Cominceremo ad osservare&hellip;",
+            "content_html": "<p>Carissimi studenti,</p>\n<p>ricordo a tutti che la lezione di venerdì prossimo si terrà regolarmente <strong>dalle 15:30 alle ore 17:00</strong> di nuovo in aula <strong>LIM</strong>, salvo diversa indicazione.</p>\n<p>Vi invito a portare <span style=\"text-decoration: underline;\">un quaderno, un tablet o un computer portatile</span> per prendere appunti. Cominceremo ad osservare le prime righe di codice in <strong>Jython</strong>!</p>\n<p>Per chi non l'avesse già visto vi invito a scaricare l'eseguibile dell'ambiente <strong>JESS</strong> dai link riportati nella sottosezione di <strong>Downloads</strong>.</p>\n<p> </p>\n<p>Buon fine settimana a tutti</p>\n<p>Buono Studio</p>",
+            "image": "https://espositomatteo.github.io/media/posts/5/",
+            "author": {
+                "name": "Matteo Esposito"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-10-20T10:39:32+02:00",
+            "date_modified": "2018-10-20T10:39:32+02:00"
+        },
+        {
+            "id": "https://espositomatteo.github.io/test/",
+            "url": "https://espositomatteo.github.io/test/",
+            "title": "Benvenuti!!!!",
+            "summary": "In questo piccolo spazio nella rete potrete troavre tutte le informazioni, notifiche ed eventualmente il materiale delle lezioni utile per ripassare o per cimentarsi in challenge interessanti",
+            "content_html": "In questo piccolo spazio nella rete potrete troavre tutte le informazioni, notifiche ed eventualmente il materiale delle lezioni utile per ripassare o per cimentarsi in challenge interessanti",
+            "image": "https://espositomatteo.github.io/media/posts/2/",
+            "author": {
+                "name": "Matteo Esposito"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-10-13T16:25:46+02:00",
+            "date_modified": "2018-10-13T16:28:55+02:00"
+        }
+    ]
+}
