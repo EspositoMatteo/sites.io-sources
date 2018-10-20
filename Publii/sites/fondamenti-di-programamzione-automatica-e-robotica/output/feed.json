@@ -10,11 +10,26 @@
     },
     "items": [
         {
+            "id": "https://espositomatteo.github.io/downloads/",
+            "url": "https://espositomatteo.github.io/downloads/",
+            "title": "Downloads",
+            "summary": "Slides:Slides lezione 19-10-2018",
+            "content_html": "<p>Slides:</p>\n<ul>\n<li>Slides lezione 19-10-2018</li>\n</ul>",
+            "image": "https://espositomatteo.github.io/media/posts/4/",
+            "author": {
+                "name": "Matteo Esposito"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-10-20T10:08:14+02:00",
+            "date_modified": "2018-10-20T10:08:14+02:00"
+        },
+        {
             "id": "https://espositomatteo.github.io/jess/",
             "url": "https://espositomatteo.github.io/jess/",
             "title": "JESS",
-            "summary": "In quetsa pagina potrete scaricare per i due ambienti principali di sviluppo ( MacOS/MacOSX e Windows ) gli eseguibili di JESS: MacOS/MacOSX Windows Materiale Aggiuntivo della 4a edizione di \"Python a multimedial approach\" ",
-            "content_html": "<p>In quetsa pagina potrete scaricare per i due ambienti principali di sviluppo ( MacOS/MacOSX e Windows ) gli eseguibili di JESS:</p>\n<p> </p>\n<p>MacOS/MacOSX</p>\n<p>Windows</p>\n<p> </p>\n<p>Materiale Aggiuntivo della 4a edizione di \"Python a multimedial approach\"</p>\n<p> </p>",
+            "summary": "In quetsa pagina potrete scaricare per i due ambienti principali di sviluppo ( MacOS/MacOSX e Windows ) gli eseguibili di JESS: MacOS/MacOSX Windows Di seguito potrete trovare del materiale distribuito insieme ad un libro di cui non è consigliato ne necessario l'acquisto. Però il materiale&hellip;",
+            "content_html": "<p>In quetsa pagina potrete scaricare per i due ambienti principali di sviluppo ( MacOS/MacOSX e Windows ) gli eseguibili di JESS:</p>\n<p> </p>\n<p><a href=\"https://github.com/gatech-csl/jes/releases/download/5.020/jes-5.020-macosx.zip\" target=\"_blank\" rel=\"noopener noreferrer\">MacOS/MacOSX</a></p>\n<p><a href=\"https://github.com/gatech-csl/jes/releases/download/5.020/jes-5.020-windows.exe\">Windows</a></p>\n<p> Di seguito potrete trovare del materiale distribuito insieme ad un libro di cui non è consigliato ne necessario l'acquisto. Però il materiale di seguito linkato permetet di avere a disposzione excerpt di audio o imaigni utili per allenarsi con le varie istruzoni di Jhyton</p>\n<p><a href=\"http://coweb.cc.gatech.edu/mediaComp-teach/uploads/1/mediasources-4ed.zip\">Materiale Aggiuntivo della 4a edizione di \"Python a multimedial approach\"</a></p>\n<p> </p>",
             "image": "https://espositomatteo.github.io/media/posts/3/Backgrounds_Code_in_Java__background_098922_.jpg",
             "author": {
                 "name": "Matteo Esposito"
@@ -22,7 +37,7 @@
             "tags": [
             ],
             "date_published": "2018-10-13T16:32:00+02:00",
-            "date_modified": "2018-10-13T16:32:00+02:00"
+            "date_modified": "2018-10-20T10:07:13+02:00"
         },
         {
             "id": "https://espositomatteo.github.io/test/",
