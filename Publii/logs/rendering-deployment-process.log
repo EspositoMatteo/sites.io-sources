@@ -1,0 +1,49 @@
+CONFIG: 97.053ms
+TAGS POST COUNT - QUERY: 190.789ms
+TAGS POST COUNT - STORE: 0.028ms
+TAGS - QUERY: 2.613ms
+TAGS - STORE: 0.013ms
+AUTHORS POST COUNT - QUERY: 15.504ms
+AUTHORS POST COUNT - STORE: 0.025ms
+AUTHORS - QUERY: 2.418ms
+AUTHORS - STORE: 3.725ms
+FEATURED IMAGES - QUERY: 5.438ms
+[WARNING] renderer-context.js: wrong image path - missing dimensions for: /Users/bbqualcosa/Documents/Publii/sites/fondamenti-di-programamzione-automatica-e-robotica/input/media/posts/2
+FEATURED IMAGES - STORE: 4.322ms
+POST TAGS - QUERY: 2.695ms
+POST TAGS - STORE: 0.016ms
+POSTS - QUERY: 90.997ms
+POSTS - STORE: 27.272ms
+CONTENT DATA: 348.597ms
+HOME: 282.534ms
+POSTS: 184.653ms
+TAGS: 2.277ms
+AUTHORS: 49.284ms
+404: 14.785ms
+SEARCH: 15.873ms
+FEEDS: 103.190ms
+CSS: 272.050ms
+FILES: 51.303ms
+SITEMAP: 31.159ms
+TAGS POST COUNT - QUERY: 7.331ms
+TAGS POST COUNT - STORE: 0.029ms
+TAGS - QUERY: 2.999ms
+TAGS - STORE: 0.039ms
+AUTHORS POST COUNT - QUERY: 23.421ms
+AUTHORS POST COUNT - STORE: 0.028ms
+AUTHORS - QUERY: 5.232ms
+AUTHORS - STORE: 1.368ms
+FEATURED IMAGES - QUERY: 4.713ms
+[WARNING] renderer-context.js: wrong image path - missing dimensions for: /Users/bbqualcosa/Documents/Publii/sites/fondamenti-di-programamzione-automatica-e-robotica/input/media/posts/2
+FEATURED IMAGES - STORE: 1.462ms
+POST TAGS - QUERY: 12.418ms
+POST TAGS - STORE: 0.022ms
+POSTS - QUERY: 5.772ms
+POSTS - STORE: 11.361ms
+CONTENT DATA: 81.259ms
+HOME-AMP: 70.030ms
+POSTS-AMP: 118.456ms
+TAGS-AMP: 7.525ms
+AUTHORS-AMP: 48.780ms
+AMP: 327.407ms
+RENDERING: 1846.370ms

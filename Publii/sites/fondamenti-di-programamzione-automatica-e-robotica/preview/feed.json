@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Fondamenti di Programamzione Automatica e Robotica",
+    "description": "",
+    "home_page_url": "file:///Users/bbqualcosa/Documents/Publii/sites/fondamenti-di-programamzione-automatica-e-robotica/preview",
+    "feed_url": "file:///Users/bbqualcosa/Documents/Publii/sites/fondamenti-di-programamzione-automatica-e-robotica/preview/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Matteo Esposito"
+    },
+    "items": [
+        {
+            "id": "file:///Users/bbqualcosa/Documents/Publii/sites/fondamenti-di-programamzione-automatica-e-robotica/preview/test/index.html",
+            "url": "file:///Users/bbqualcosa/Documents/Publii/sites/fondamenti-di-programamzione-automatica-e-robotica/preview/test/index.html",
+            "title": "Test",
+            "summary": "test content",
+            "content_html": "test content",
+            "image": "file:///Users/bbqualcosa/Documents/Publii/sites/fondamenti-di-programamzione-automatica-e-robotica/preview/media/posts/2/",
+            "author": {
+                "name": "Matteo Esposito"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-10-13T16:25:46+02:00",
+            "date_modified": "2018-10-13T16:25:46+02:00"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Fondamenti di Programamzione Automatica e Robotica</title>
+    <link href="file:///Users/bbqualcosa/Documents/Publii/sites/fondamenti-di-programamzione-automatica-e-robotica/preview/feed.xml" rel="self" />
+    <link href="file:///Users/bbqualcosa/Documents/Publii/sites/fondamenti-di-programamzione-automatica-e-robotica/preview" />
+    <updated>2018-10-13T16:26:15+02:00</updated>
+    <author>
+        <name>Matteo Esposito</name>
+    </author>
+    <id>file:///Users/bbqualcosa/Documents/Publii/sites/fondamenti-di-programamzione-automatica-e-robotica/preview</id>
+
+    <entry>
+        <title>Test</title>
+        <author>
+            <name>Matteo Esposito</name>
+        </author>
+        <link href="file:///Users/bbqualcosa/Documents/Publii/sites/fondamenti-di-programamzione-automatica-e-robotica/preview/test/index.html"/>
+        <id>file:///Users/bbqualcosa/Documents/Publii/sites/fondamenti-di-programamzione-automatica-e-robotica/preview/test/index.html</id>
+
+        <updated>2018-10-13T16:25:46+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="file:///Users/bbqualcosa/Documents/Publii/sites/fondamenti-di-programamzione-automatica-e-robotica/preview/media/posts/2/" alt="" />
+                    test content
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="file:///Users/bbqualcosa/Documents/Publii/sites/fondamenti-di-programamzione-automatica-e-robotica/preview/media/posts/2/" alt="" />
+                test content
+            ]]>
+        </content>
+    </entry>
+</feed>

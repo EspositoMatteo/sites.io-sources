@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Fondamenti di Programamzione Automatica e Robotica</title>
+    <link href="https://espositomatteo.github.io/feed.xml" rel="self" />
+    <link href="https://espositomatteo.github.io" />
+    <updated>2018-10-20T09:52:13+02:00</updated>
+    <author>
+        <name>Matteo Esposito</name>
+    </author>
+    <id>https://espositomatteo.github.io</id>
+
+    <entry>
+        <title>JESS</title>
+        <author>
+            <name>Matteo Esposito</name>
+        </author>
+        <link href="https://espositomatteo.github.io/jess/"/>
+        <id>https://espositomatteo.github.io/jess/</id>
+
+        <updated>2018-10-13T16:32:00+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://espositomatteo.github.io/media/posts/3/Backgrounds_Code_in_Java__background_098922_.jpg" alt="" />
+                    In quetsa pagina potrete scaricare per i due ambienti principali di sviluppo ( MacOS/MacOSX e Windows ) gli eseguibili di JESS: MacOS/MacOSX Windows Materiale Aggiuntivo della 4a edizione di "Python a multimedial approach" 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://espositomatteo.github.io/media/posts/3/Backgrounds_Code_in_Java__background_098922_.jpg" alt="" />
+                <p>In quetsa pagina potrete scaricare per i due ambienti principali di sviluppo ( MacOS/MacOSX e Windows ) gli eseguibili di JESS:</p>
+<p> </p>
+<p>MacOS/MacOSX</p>
+<p>Windows</p>
+<p> </p>
+<p>Materiale Aggiuntivo della 4a edizione di "Python a multimedial approach"</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Benvenuti!!!!</title>
+        <author>
+            <name>Matteo Esposito</name>
+        </author>
+        <link href="https://espositomatteo.github.io/test/"/>
+        <id>https://espositomatteo.github.io/test/</id>
+
+        <updated>2018-10-13T16:28:55+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://espositomatteo.github.io/media/posts/2/" alt="" />
+                    In questo piccolo spazio nella rete potrete troavre tutte le informazioni, notifiche ed eventualmente il materiale delle lezioni utile per ripassare o per cimentarsi in challenge interessanti
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://espositomatteo.github.io/media/posts/2/" alt="" />
+                In questo piccolo spazio nella rete potrete troavre tutte le informazioni, notifiche ed eventualmente il materiale delle lezioni utile per ripassare o per cimentarsi in challenge interessanti
+            ]]>
+        </content>
+    </entry>
+</feed>
