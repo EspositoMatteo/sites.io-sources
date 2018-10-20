@@ -3,12 +3,37 @@
     <title>Fondamenti di Programamzione Automatica e Robotica</title>
     <link href="file:///Users/bbqualcosa/Documents/GitHub/sites.io-sources/Publii/sites/fondamenti-di-programamzione-automatica-e-robotica/preview/feed.xml" rel="self" />
     <link href="file:///Users/bbqualcosa/Documents/GitHub/sites.io-sources/Publii/sites/fondamenti-di-programamzione-automatica-e-robotica/preview" />
-    <updated>2018-10-20T10:03:15+02:00</updated>
+    <updated>2018-10-20T10:19:47+02:00</updated>
     <author>
         <name>Matteo Esposito</name>
     </author>
     <id>file:///Users/bbqualcosa/Documents/GitHub/sites.io-sources/Publii/sites/fondamenti-di-programamzione-automatica-e-robotica/preview</id>
 
+    <entry>
+        <title>Downloads</title>
+        <author>
+            <name>Matteo Esposito</name>
+        </author>
+        <link href="file:///Users/bbqualcosa/Documents/GitHub/sites.io-sources/Publii/sites/fondamenti-di-programamzione-automatica-e-robotica/preview/downloads/index.html"/>
+        <id>file:///Users/bbqualcosa/Documents/GitHub/sites.io-sources/Publii/sites/fondamenti-di-programamzione-automatica-e-robotica/preview/downloads/index.html</id>
+
+        <updated>2018-10-20T10:08:14+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="file:///Users/bbqualcosa/Documents/GitHub/sites.io-sources/Publii/sites/fondamenti-di-programamzione-automatica-e-robotica/preview/media/posts/4/" alt="" />
+                    Slides:Slides lezione 19-10-2018
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="file:///Users/bbqualcosa/Documents/GitHub/sites.io-sources/Publii/sites/fondamenti-di-programamzione-automatica-e-robotica/preview/media/posts/4/" alt="" />
+                <p>Slides:</p>
+<ul>
+<li>Slides lezione 19-10-2018</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>JESS</title>
         <author>
@@ -17,11 +42,11 @@
         <link href="file:///Users/bbqualcosa/Documents/GitHub/sites.io-sources/Publii/sites/fondamenti-di-programamzione-automatica-e-robotica/preview/jess/index.html"/>
         <id>file:///Users/bbqualcosa/Documents/GitHub/sites.io-sources/Publii/sites/fondamenti-di-programamzione-automatica-e-robotica/preview/jess/index.html</id>
 
-        <updated>2018-10-13T16:32:00+02:00</updated>
+        <updated>2018-10-20T10:07:13+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="file:///Users/bbqualcosa/Documents/GitHub/sites.io-sources/Publii/sites/fondamenti-di-programamzione-automatica-e-robotica/preview/media/posts/3/Backgrounds_Code_in_Java__background_098922_.jpg" alt="" />
-                    In quetsa pagina potrete scaricare per i due ambienti principali di sviluppo ( MacOS/MacOSX e Windows ) gli eseguibili di JESS: MacOS/MacOSX Windows Materiale Aggiuntivo della 4a edizione di "Python a multimedial approach" 
+                    In quetsa pagina potrete scaricare per i due ambienti principali di sviluppo ( MacOS/MacOSX e Windows ) gli eseguibili di JESS: MacOS/MacOSX Windows Di seguito potrete trovare del materiale distribuito insieme ad un libro di cui non è consigliato ne necessario l'acquisto. Però il materiale&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -29,10 +54,10 @@
                     <img src="file:///Users/bbqualcosa/Documents/GitHub/sites.io-sources/Publii/sites/fondamenti-di-programamzione-automatica-e-robotica/preview/media/posts/3/Backgrounds_Code_in_Java__background_098922_.jpg" alt="" />
                 <p>In quetsa pagina potrete scaricare per i due ambienti principali di sviluppo ( MacOS/MacOSX e Windows ) gli eseguibili di JESS:</p>
 <p> </p>
-<p>MacOS/MacOSX</p>
-<p>Windows</p>
-<p> </p>
-<p>Materiale Aggiuntivo della 4a edizione di "Python a multimedial approach"</p>
+<p><a href="https://github.com/gatech-csl/jes/releases/download/5.020/jes-5.020-macosx.zip" target="_blank" rel="noopener noreferrer">MacOS/MacOSX</a></p>
+<p><a href="https://github.com/gatech-csl/jes/releases/download/5.020/jes-5.020-windows.exe">Windows</a></p>
+<p> Di seguito potrete trovare del materiale distribuito insieme ad un libro di cui non è consigliato ne necessario l'acquisto. Però il materiale di seguito linkato permetet di avere a disposzione excerpt di audio o imaigni utili per allenarsi con le varie istruzoni di Jhyton</p>
+<p><a href="http://coweb.cc.gatech.edu/mediaComp-teach/uploads/1/mediasources-4ed.zip">Materiale Aggiuntivo della 4a edizione di "Python a multimedial approach"</a></p>
 <p> </p>
             ]]>
         </content>
