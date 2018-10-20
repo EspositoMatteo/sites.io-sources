@@ -2,27 +2,42 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Fondamenti di Programamzione Automatica e Robotica",
     "description": "",
-    "home_page_url": "file:///Users/bbqualcosa/Documents/Publii/sites/fondamenti-di-programamzione-automatica-e-robotica/preview",
-    "feed_url": "file:///Users/bbqualcosa/Documents/Publii/sites/fondamenti-di-programamzione-automatica-e-robotica/preview/feed.json",
+    "home_page_url": "file:///Users/bbqualcosa/Documents/GitHub/sites.io-sources/Publii/sites/fondamenti-di-programamzione-automatica-e-robotica/preview",
+    "feed_url": "file:///Users/bbqualcosa/Documents/GitHub/sites.io-sources/Publii/sites/fondamenti-di-programamzione-automatica-e-robotica/preview/feed.json",
     "user_comment": "",
     "author": {
         "name": "Matteo Esposito"
     },
     "items": [
         {
-            "id": "file:///Users/bbqualcosa/Documents/Publii/sites/fondamenti-di-programamzione-automatica-e-robotica/preview/test/index.html",
-            "url": "file:///Users/bbqualcosa/Documents/Publii/sites/fondamenti-di-programamzione-automatica-e-robotica/preview/test/index.html",
-            "title": "Test",
-            "summary": "test content",
-            "content_html": "test content",
-            "image": "file:///Users/bbqualcosa/Documents/Publii/sites/fondamenti-di-programamzione-automatica-e-robotica/preview/media/posts/2/",
+            "id": "file:///Users/bbqualcosa/Documents/GitHub/sites.io-sources/Publii/sites/fondamenti-di-programamzione-automatica-e-robotica/preview/jess/index.html",
+            "url": "file:///Users/bbqualcosa/Documents/GitHub/sites.io-sources/Publii/sites/fondamenti-di-programamzione-automatica-e-robotica/preview/jess/index.html",
+            "title": "JESS",
+            "summary": "In quetsa pagina potrete scaricare per i due ambienti principali di sviluppo ( MacOS/MacOSX e Windows ) gli eseguibili di JESS: MacOS/MacOSX Windows Materiale Aggiuntivo della 4a edizione di \"Python a multimedial approach\" ",
+            "content_html": "<p>In quetsa pagina potrete scaricare per i due ambienti principali di sviluppo ( MacOS/MacOSX e Windows ) gli eseguibili di JESS:</p>\n<p> </p>\n<p>MacOS/MacOSX</p>\n<p>Windows</p>\n<p> </p>\n<p>Materiale Aggiuntivo della 4a edizione di \"Python a multimedial approach\"</p>\n<p> </p>",
+            "image": "file:///Users/bbqualcosa/Documents/GitHub/sites.io-sources/Publii/sites/fondamenti-di-programamzione-automatica-e-robotica/preview/media/posts/3/Backgrounds_Code_in_Java__background_098922_.jpg",
+            "author": {
+                "name": "Matteo Esposito"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-10-13T16:32:00+02:00",
+            "date_modified": "2018-10-13T16:32:00+02:00"
+        },
+        {
+            "id": "file:///Users/bbqualcosa/Documents/GitHub/sites.io-sources/Publii/sites/fondamenti-di-programamzione-automatica-e-robotica/preview/test/index.html",
+            "url": "file:///Users/bbqualcosa/Documents/GitHub/sites.io-sources/Publii/sites/fondamenti-di-programamzione-automatica-e-robotica/preview/test/index.html",
+            "title": "Benvenuti!!!!",
+            "summary": "In questo piccolo spazio nella rete potrete troavre tutte le informazioni, notifiche ed eventualmente il materiale delle lezioni utile per ripassare o per cimentarsi in challenge interessanti",
+            "content_html": "In questo piccolo spazio nella rete potrete troavre tutte le informazioni, notifiche ed eventualmente il materiale delle lezioni utile per ripassare o per cimentarsi in challenge interessanti",
+            "image": "file:///Users/bbqualcosa/Documents/GitHub/sites.io-sources/Publii/sites/fondamenti-di-programamzione-automatica-e-robotica/preview/media/posts/2/",
             "author": {
                 "name": "Matteo Esposito"
             },
             "tags": [
             ],
             "date_published": "2018-10-13T16:25:46+02:00",
-            "date_modified": "2018-10-13T16:25:46+02:00"
+            "date_modified": "2018-10-13T16:28:55+02:00"
         }
     ]
 }
